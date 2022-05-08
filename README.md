@@ -52,11 +52,13 @@ jupyter-lab
 ``` 
 5. Occasionally, Jupyter notebook will automatically prompt up for you, if not you can copy the localhost link in your cmd and you should be good to go.
 
-### Nbviewer
-| Post Correspondence Problem Notebook | [![Post Correspondence Problem Notebook](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/PantareeBew/EmergingTechAssessment/blob/main/Scikit-Learn.ipynb) 
-| :------------- |:-------------|
-| Countdown Numbers Game Notebook | [![Countdown Numbers Game Notebook](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/PantareeBew/EmergingTechAssessment/blob/main/Quantum-Computing%20.ipynb) 
+### Nbviewer and Binder
+| Post Correspondence Problem Notebook | [![Post Correspondence Problem Notebook](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/PantareeBew/Theory-of-Algorithms/blob/main/post-correspondence.ipynb) | [![Post Correspondence](https://mybinder.org/static/images/badge_logo.svg?v=51b20aa16836ea83f5ed69194c660eb85c4c2c1e32565312baedb7d534e3ffcf592881dbbe3da441d8293ded842755c906b91fb4aadf15220cf48111ebf701c4)](https://notebooks.gesis.org/binder/jupyter/user/pantareebew-theory-of-algorithms-sk69rdek/lab/workspaces/auto-Q/tree/post-correspondence.ipynb)|
+| :------------- |:-------------|:-------------|
+| <b>Countdown Numbers Game Notebook</b>| [![Countdown Numbers Game Notebook](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/PantareeBew/Theory-of-Algorithms/blob/main/countdown.ipynb) | [![Countdown](https://mybinder.org/static/images/badge_logo.svg?v=51b20aa16836ea83f5ed69194c660eb85c4c2c1e32565312baedb7d534e3ffcf592881dbbe3da441d8293ded842755c906b91fb4aadf15220cf48111ebf701c4)](https://notebooks.gesis.org/binder/jupyter/user/pantareebew-theory-of-algorithms-sk69rdek/lab/workspaces/auto-Q/tree/countdown.ipynb)|
 <br>
+
+
 
 
 
