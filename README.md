@@ -34,4 +34,6 @@
 
 
 ## References
-[[4]](https://colab.research.google.com/github/ianmcloughlin/jupyter-teaching-notebooks/blob/main/countdown_numbers.ipynb#scrollTo=vcoi3z-sBhvt) countdown-numbers jupyter Notebook - Ian Mcloughlin
+[[4]](https://colab.research.google.com/github/ianmcloughlin/jupyter-teaching-notebooks/blob/main/countdown_numbers.ipynb#scrollTo=vcoi3z-sBhvt) countdown-numbers jupyter Notebook - Ian Mcloughlin <br />
+[[5]](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html) Mathematics in R Markdown
+
