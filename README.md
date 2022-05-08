@@ -32,7 +32,9 @@ should take two lists of strings and return True if they correspond, False other
 number and return a method to calculate the target from the numbers, if it exists. <br />
 - Explanation of the functional aspects of your code.<br />
 
-## How to run on your local machine
+## Running the Notebooks
+
+### How to run on your local machine
 1. Clone this repository using the command  
   
 ```
@@ -50,7 +52,11 @@ jupyter-lab
 ``` 
 5. Occasionally, Jupyter notebook will automatically prompt up for you, if not you can copy the localhost link in your cmd and you should be good to go.
 
-
+### Nbviewer
+| Post Correspondence Problem Notebook | [![Post Correspondence Problem Notebook](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/PantareeBew/EmergingTechAssessment/blob/main/Scikit-Learn.ipynb) 
+| :------------- |:-------------|
+| Countdown Numbers Game Notebook | [![Countdown Numbers Game Notebook](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/PantareeBew/EmergingTechAssessment/blob/main/Quantum-Computing%20.ipynb) 
+<br>
 
 
 
