@@ -61,17 +61,8 @@ jupyter-lab
 
 
 
-
-
-
-
-
-
-
-
-
 ## References
 [[1]](https://colab.research.google.com/github/ianmcloughlin/jupyter-teaching-notebooks/blob/main/countdown_numbers.ipynb#scrollTo=vcoi3z-sBhvt) countdown-numbers jupyter Notebook - Ian Mcloughlin <br />
 [[2]](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html) Mathematics in R Markdown <br />
 [[3]](https://www.datacamp.com/community/tutorials/markdown-in-jupyter-notebook) Markdown in Jupyter Notebook Tutorial<br />
-
+[[4]](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/) How to Write a Good README File for Your GitHub Project
